@@ -21,4 +21,4 @@ Follow the next steps to test out this sample:
 
 ## More info
 
-Check out the following article to learn more about this sample: 
+Check out the following article to learn more about this sample: [Adding guests to an Office 365 Group via the Microsoft Graph API](https://www.eliostruyf.com/adding-guests-to-an-office-365-group-via-the-microsoft-graph-api/)
